@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628999098812)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/subhan.fadilah.399)
 
+**Glad to see you here!**
+
 Whatever happens keep breathing :)
 
-<img align="right" alt="GIF" src="https://github.com/Nux-xader/Nux-xader/blob/master/coding.gif?raw=true" width="408" height="318" border="20" />
 
 ## <!--END_SECTION:waka-->
 
@@ -37,9 +38,3 @@ Whatever happens keep breathing :)
 
 ---
 
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nux-xader&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nux-xader&show_icons=true&hide_border=true&layout=compact&langs_count=20&theme=nightowl"/>
-</p>
