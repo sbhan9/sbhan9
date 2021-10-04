@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **Senang bertemu denganmu di sini!**
 
-Tidak perlu pandai untuk memulai apapun :)
+Tidak perlu pandai untuk memulai sesuatu :)
 
 
 ## <!--END_SECTION:waka-->
